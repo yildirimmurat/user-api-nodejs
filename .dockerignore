@@ -3,4 +3,3 @@ Dockerfile
 .gitignore
 .git/
 .idea/
-package-lock.json
